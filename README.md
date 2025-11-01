@@ -1,6 +1,6 @@
 <!-- Centered Neon Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=00FFF9&center=true&vCenter=true&width=700&lines=👋+Yo!+I'm+shyam vangapandu;💻+CSE+Undergrad+%7C+Tech+Dreamer;🚀+Let's+Code+Something+Epic!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=00FFF9&center=true&vCenter=true&width=700&lines=👋+Yo!+I'm+shyam+vangapandu;💻+CSE+Undergrad+%7C+Tech+Dreamer;🚀+Let's+Code+Something+Epic!" alt="Typing Animation" />
 </p>
 
 <!-- Glowing Divider -->
