@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1200&color=7EE7D9&center=true&vCenter=true&width=700&height=50&lines=Shyam+Vangapandu;Building+AI+products+and+interactive+web+experiences;Computer+Science+%40+CHARUSAT" alt="Shyam Vangapandu" />
+# Shyam Vangapandu
 
 <sub>AI systems &nbsp;·&nbsp; Product engineering &nbsp;·&nbsp; Immersive web</sub>
 
@@ -40,12 +40,11 @@ const shyam = {
 
 <br>
 
-## Activity
+## Contribution graph
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ganesh050408-png&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7EE7D9&icon_color=7EE7D9&text_color=9da7b3" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh050408-png&layout=compact&hide_border=true&bg_color=0d1117&title_color=7EE7D9&text_color=9da7b3" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ganesh050408-png/ganesh050408-png/output/github-snake-dark.svg" alt="contribution snake" />
+</div>
 
 <br>
 
