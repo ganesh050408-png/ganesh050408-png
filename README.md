@@ -40,17 +40,9 @@ const shyam = {
 
 <br>
 
-## Contribution graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ganesh050408-png/ganesh050408-png/output/github-snake-dark.svg" alt="contribution snake" />
-</div>
-
-<br>
-
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/shyam-vangapandu-34a846372) &nbsp;·&nbsp; [GitHub](https://github.com/ganesh050408-png)
+[LinkedIn](https://www.linkedin.com/in/shyam-vangapandu-34a846372) &nbsp;·&nbsp; [GitHub](https://github.com/ganesh050408-png)
 
 <br>
 
